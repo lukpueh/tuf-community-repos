@@ -1,0 +1,2 @@
+--> Short preamble about organization structure / governance / code of conduct comittee
+--> repo does not have its own code of conduct it defaults to: theupdateframework/community/CODE_OF_CONDUCT.md

@@ -1,0 +1,2 @@
+--> Short preamble about organization governance plus link to theupdateframework/community/GOVERNANCE.md
+--> repo does not have security contacts, defaults to: theupdateframework/community/SECURITY.md

@@ -1,0 +1,18 @@
+Other file types supported in <github organization>/.github
+
+- FUNDING.yml: (sponsor buttons) does not seem relevant
+- SUPPORT.md: Should we add a default one that links to
+  theupdateframework/community/SUPPORT.md akin to CONTRIBUTING.m?
+- ISSUE template(s):
+  - Short preamble about organization structure and governance:
+  - First read,
+    - theupdateframework/.github/SECURITY.md, if you report a security issue
+    - theupdateframework/.github/SUPPORT.md, if you have a question
+  - Make sure you follow theupdateframework/.github/CODE_OF_CONDUCT.md
+
+- PR template(s):
+  - Short preamble about organization structure and governance:
+  - First read,
+    - theupdateframework/.github/SECURITY.md, if you want to fix an unreported security issue
+    - theupdateframework/.github/CONTRIBUTING.md
+  - Make sure you follow theupdateframework/.github/CODE_OF_CONDUCT.md
