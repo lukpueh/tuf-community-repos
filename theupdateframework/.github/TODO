@@ -1,18 +1,25 @@
-Other file types supported in <github organization>/.github
+# TODO
 
-- FUNDING.yml: (sponsor buttons) does not seem relevant
+Ideas for documents supported in the "<github organization>/.github" repo.
+https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file
+
+--> Maybe ticketize these in github.com/theupdateframework/community/issues
+
 - SUPPORT.md: Should we add a default one that links to
-  theupdateframework/community/SUPPORT.md akin to CONTRIBUTING.m?
+  theupdateframework/community/SUPPORT.md akin to CONTRIBUTING.md?
+
 - ISSUE template(s):
-  - Short preamble about organization structure and governance:
+  - Short preamble about organization structure and governance
   - First read,
     - theupdateframework/.github/SECURITY.md, if you report a security issue
     - theupdateframework/.github/SUPPORT.md, if you have a question
   - Make sure you follow theupdateframework/.github/CODE_OF_CONDUCT.md
 
 - PR template(s):
-  - Short preamble about organization structure and governance:
+  - Short preamble about organization structure and governance
   - First read,
-    - theupdateframework/.github/SECURITY.md, if you want to fix an unreported security issue
-    - theupdateframework/.github/CONTRIBUTING.md
+    - theupdateframework/.github/SECURITY.md, if you want to fix a security issue
+    - theupdateframework/.github/CONTRIBUTING.md for anything else
   - Make sure you follow theupdateframework/.github/CODE_OF_CONDUCT.md
+
+- FUNDING.yml (sponsor buttons): not applicable

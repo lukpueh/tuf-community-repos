@@ -1,6 +1,26 @@
-- issue/pr templates?? brainstorm:
-  - templates for issues/prs related to governance
-  - templates for related to a subproject
-  - etc...
+# TODO
 
-  -> I think we can keep this one for later
+Ideas for documents that we could add to this repo, and/or that currently live
+in theupdateframework/tuf and need to be moved or revised.
+
+--> Maybe ticketize in github.com/theupdateframework/community/issues
+
+- issues/pr templates related to community governance
+- issues/pr templates related to TUF projects
+
+- https://github.com/theupdateframework/tuf/blob/develop/docs/AUTHORS.txt
+  - The list of orgs and individuals makes it seem a better fit for
+    the community repo
+  - Maybe as part of PEOPLE.md
+  - AUTHORS.txt vs. MAINTAINERS.txt vs. Acknowledgements (README.md)??
+    Their purpose seems to overlap, and not all seem up-to-date.
+  - Is it even worth maintaining such a document?
+
+- https://github.com/theupdateframework/tuf/commits/develop/docs/GOVERNANCE.md
+  - Intent overlaps with new community governance
+  - Needs revision if it stays in theupdateframework/tuf
+
+- https://github.com/theupdateframework/tuf/blob/develop/docs/TAP.rst
+  - Maybe also a good fit for this repo? Maybe as part of CONTRIBUTING.md?
+  - Feels a bit lost in theupdateframework/tuf
+

@@ -1,7 +1,5 @@
 # The Update Framework Governance
 
-  - TODO: Adding a subproject (repo) must add the name to PROJECTS.md
-
 ## Project Types
 
 * Core: the core of The Update Framework (TUF) project is the TUF specification
@@ -44,7 +42,7 @@ following subproject governance activities:
 * Holding regular, subproject-wide discussions on issues and planning;
 * Periodic review of subproject contributors for advancement on the Contributor
   Ladder;
-* Making final decisions on subproject changes that involve controversial 
+* Making final decisions on subproject changes that involve controversial
   trade-offs;
 * Responding to security compromise reports;
 * Supporting the Code of Conduct within their subproject and referring
