@@ -1,11 +1,20 @@
 # Security Policy
 
 If you want to report security issues for a TUF project, please consult with
-any local security policy first.
+any project-specifc security policy first.
 
-If no local policy is available, or the security issue is not related to a
+If no such policy is available, or the security issue is not related to a
 specific project, please report to the [TUF community security
 contact](PEOPLE.md#security-contact) via email, ideally encrypted with PGP.
+
+<!--
+TODO:
+- The TUF community security contact does not exist yet (see PEOPLE.md)
+- Goal: No one person should become a bottle neck for resolving security issues.
+- Encouraging the use of PGP might be problematic.
+See https://buttondown.email/cryptography-dispatches/archive/505a859e-964d-4d15-9ad8-7ad0f45e1345
+- Should we provide a HTTPS web form instead?
+ -->
 
 The report should contain at least:
 

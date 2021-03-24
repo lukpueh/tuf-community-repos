@@ -8,4 +8,4 @@ organization](https://github.com/theupdateframework) default to [community
 health files](https://github.com/theupdateframework/.github) maintained in this
 repo.
 
-<!-- TODO: Add overview of the files in this repo?? -->
+<!-- TODO: Add overview of the files in this repo -->

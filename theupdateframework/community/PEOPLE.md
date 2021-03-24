@@ -1,12 +1,10 @@
 # People
 
-This document lists the TUF community consensus builder and all people, who are
-an appointed member of a TUF community committee.
+This document lists all appointed members of the TUF community committees.
 
-<!-- TODO: Fill in people (name, affiliation, github handle, email, gpg
-fingerprint, etc.) -->
-
-## Consensus Builder
+<!-- TODO:
+- Fill in people (name, role/affiliation, github handle, email, gpg
+  fingerprint, etc.) -->
 
 ## Steering Committee
 
@@ -15,6 +13,5 @@ fingerprint, etc.) -->
 <!--
 ## Security Contact
 
-TODO: Should we add a dedicated security contact? If so, its appointment
-should be mentioned in GOVERNACE.md. If not, SECURITY.md needs to be updated.
--->
+TODO: Should we add a dedicated security contact? If so, its appointment should
+be mentioned in GOVERNACE.md. If not, SECURITY.md needs to be updated.-->
