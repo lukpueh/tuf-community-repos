@@ -1,8 +1,9 @@
 # Projects
 
-This document lists all projects in the TUF organization.
+This document lists all projects governed by the TUF community.
 
-TODO: List projects by repo (plus ancillary repos?) and short description.
+<!-- TODO: Fill in projects by repo (plus ancillary repos?) and short
+description. -->
 
 ## Core
 

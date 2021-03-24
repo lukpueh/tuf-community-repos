@@ -7,6 +7,8 @@ https://docs.github.com/en/github/building-a-strong-community/creating-a-default
 
 - SUPPORT.md: Should we add a default one that links to
   theupdateframework/community/SUPPORT.md akin to CONTRIBUTING.md?
+  or it just directly links to any or mlutiple of README.md, PEOPLE.md,
+  CONTRIBUTING.md in theupdateframework/community?
 
 - ISSUE template(s):
   - Short preamble about organization structure and governance

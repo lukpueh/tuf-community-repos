@@ -1,11 +1,11 @@
 # The Update Framework Community Repository
 
-TODO:
+This repo contains documents related to the operation and governance of the
+[TUF](https://theupdateframework.io/) community.
 
-- Purpose of this repo
-- Overview of files in this repo
-- Acknowledgements
-  Maybe merge....
-  https://github.com/theupdateframework/tuf#acknowledgements
-  https://github.com/theupdateframework/specification#acknowledgements
-  https://github.com/theupdateframework/taps#acknowledgements
+All project repos in this [GitHub
+organization](https://github.com/theupdateframework) default to [community
+health files](https://github.com/theupdateframework/.github) maintained in this
+repo.
+
+<!-- TODO: Add overview of the files in this repo?? -->

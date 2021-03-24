@@ -1,27 +1,32 @@
 # Contributing
 
-## ... to the TUF Organization
+## ... to the TUF community
+If you want to propose a change in governance or any of the related documents
+in this repository, just open a GitHub issue or submit a pull request.
 
-TODO: flesh out notes
+Details about how a project may become part of the TUF community can be found
+in the [*Adding Subprojects*](GOVERNANCE.md#adding-subprojects) section of the
+governance document.
 
-- See Adding/Removing Subprojects in GOVERNANCE.md
+If a new project is added to the TUF organization, the following documents must
+be updated:
 
-- Some community files are automatically populated in each repo from
-  `theupdateframewok/.github`. Feel free to override them using the same file names
-  https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file
+- [PROJECTS.md](PROJECTS.md) -- Add project name and description.
+- [PEOPLE.md](PEOPLE.md) --  Add selected steering committee subproject
+  maintainer representative.
 
-- Update files in this repo when adding removing subprojects, most notably
-  - PROJECTS.md -- add/remove name of the repo
-  - PEOPLE.md -- each subproject appoints someone for the steering committee
-
-- Use issue tracker if you want to propose a change in governance or any of the
-  related docuemnts in this repo
+Note that some [community health
+files](https://github.com/theupdateframework/.github) are automatically
+populated in all repositories in the TUF GitHub organization. If you want to
+establish local guidelines, feel free to override the default documents as
+described in the *GitHub Default Community Health File*
+[docs](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file).
 
 ## ... to a TUF Project
-[TUF projects](PROJECTS.md) may have custom contributing guidelines. If
+[TUF projects](PROJECTS.md) may have local contributing guidelines. If
 available, please refer to those first. Otherwise, just open a GitHub issue or
-submit a pull request on the corresponding project GitHub repository.
+submit a pull request on the corresponding project repository.
 
-
-Always make sure to follow the TUF community [code of
-conduct](CODE_OF_CONDUCT.md), or a project-specific one if available.
+## And don't forget!
+Please always follow the TUF community [code of conduct](CODE_OF_CONDUCT.md),
+or any project local code if available!

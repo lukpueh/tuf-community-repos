@@ -8,6 +8,16 @@ in theupdateframework/tuf and need to be moved or revised.
 - issues/pr templates related to community governance
 - issues/pr templates related to TUF projects
 
+- Cool feature, handy for TUF projects (or really any OSS project):
+  GitHub Action that syncs MAINTAINERS.txt with people and teams info queried
+  from the GitHub API.
+  - See https://gist.github.com/lukpueh/42c23c35c7cc23ab194bda2db39779bf
+  - Ping Lukas for existing ideas in his notes!!
+
+- Revise current people and teams permissions of TUF projects
+  - See corresponding private mail thread for evaluation of status quo
+  - Maybe too sensitive to be discussed on a public issue tracker
+
 - https://github.com/theupdateframework/tuf/blob/develop/docs/AUTHORS.txt
   - The list of orgs and individuals makes it seem a better fit for
     the community repo
@@ -24,3 +34,16 @@ in theupdateframework/tuf and need to be moved or revised.
   - Maybe also a good fit for this repo? Maybe as part of CONTRIBUTING.md?
   - Feels a bit lost in theupdateframework/tuf
 
+
+- Acknowledgements
+  TODO: Maybe this document is a good place to bundle Acknowledgements
+  https://github.com/theupdateframework/tuf#acknowledgements
+  https://github.com/theupdateframework/specification#acknowledgements
+  https://github.com/theupdateframework/taps#acknowledgements
+
+- https://github.com/theupdateframework/tuf/blob/develop/docs/SECURITY.md
+  - Rename!!
+  - It talks about software updater security when it should talk about
+    project security
+  - The default community security policy is propably enough for
+    theupdateframework/tuf.
