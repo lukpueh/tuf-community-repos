@@ -22,7 +22,7 @@ in theupdateframework/tuf and need to be moved or revised.
   - The list of orgs and individuals makes it seem a better fit for
     the community repo
   - Maybe as part of PEOPLE.md
-  - AUTHORS.txt vs. MAINTAINERS.txt vs. Acknowledgements (README.md)??
+  - AUTHORS.txt vs. MAINTAINERS.txt vs. Acknowledgments (README.md)??
     Their purpose seems to overlap, and not all seem up-to-date.
   - Is it even worth maintaining such a document?
 
@@ -45,5 +45,5 @@ in theupdateframework/tuf and need to be moved or revised.
   - Rename!!
   - It talks about software updater security when it should talk about
     project security
-  - The default community security policy is propably enough for
+  - The default community security policy is probably enough for
     theupdateframework/tuf.

@@ -1,7 +1,7 @@
 # Security Policy
 
 If you want to report security issues for a TUF project, please consult with
-any project-specifc security policy first.
+any project-specific security policy first.
 
 If no such policy is available, or the security issue is not related to a
 specific project, please report to the [TUF community security
