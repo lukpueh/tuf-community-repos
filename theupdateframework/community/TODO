@@ -8,11 +8,43 @@ in theupdateframework/tuf and need to be moved or revised.
 - issues/pr templates related to community governance
 - issues/pr templates related to TUF projects
 
-- Cool feature, handy for TUF projects (or really any OSS project):
-  GitHub Action that syncs MAINTAINERS.txt with people and teams info queried
-  from the GitHub API.
-  - See https://gist.github.com/lukpueh/42c23c35c7cc23ab194bda2db39779bf
-  - Ping Lukas for existing ideas in his notes!!
+- Cool feature idea, handy for TUF projects (or really any OSS project):
+  Auto-maintain MAINTAINERS.txt using people (collaborators/members) and teams
+  info queried from the GitHub API.
+
+  **Some preliminary thoughts and resource pointers**
+
+  - Can this be done with a GitHub Actions [1] or does it need a GitHub App [2]
+    and how so webhooks [3] fit in?
+  - Trigger on MemberEvent [4] or poll API regularly [5] to detect changes?
+    - Can a GitHub Action listen for MemberEvent?
+    - Does MemberEvent cover everything we need? Eg. is it triggered when
+      permissions change due to a change in GitHub team membership?
+  - Which GitHub permissions qualify someone for being added to MAINTAINERS.txt?
+    admin|maintain probably, push|triage|pull maybe?
+  - Permission == responsibility? Not every owner/admin is a maintainer.
+  - What information should go into the file?
+    GitHub handle, email (spam?) and gpg, etc. [6],[7]
+  - Be careful to not make private information (personal details or even just
+    affiliation) public.
+  - The feature should submit a PR, because a change in MAINTAINERS.txt must be
+    reviewed by a human.
+
+  - Is this really all worth it? MAINTAINERS.txt doesn't change that often.
+    - Only if it is good and generic enough to be used by other OSS projects.
+    - This feels like a supply chain transparency/security feature, and the
+      supply chain is our trade.
+    - Maybe this could be a fun self-contained student project
+
+  [1] https://docs.github.com/en/actions
+  [2] https://docs.github.com/en/developers/apps/about-apps
+  [3] https://docs.github.com/en/developers/webhooks-and-events
+  [4] https://docs.github.com/en/free-pro-team@latest/developers/webhooks-and-events/github-event-types#memberevent
+  [5] https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows#scheduled-events
+  [6] https://gist.github.com/lukpueh/42c23c35c7cc23ab194bda2db39779bf
+  [7] https://docs.github.com/en/free-pro-team@latest/rest/reference/users#gpg-keys
+
+  (credits to @SantiagoTorres, who had the initial idea)
 
 - Revise current people and teams permissions of TUF projects
   - See corresponding private mail thread for evaluation of status quo
