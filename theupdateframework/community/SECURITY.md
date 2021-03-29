@@ -22,6 +22,7 @@ The report should contain at least:
 - steps to reproduce the issue.
 
 Please do not use GitHub issue trackers to submit vulnerability reports. The
-issue tracker is intended for bug reports and feature requests. Major feature
-requests, such as design changes to the specification, should be proposed via a
+issue tracker is intended for bug reports and feature requests. 
+
+Major feature requests, such as design changes to the specification, should be proposed via a
 [TUF Augmentation Proposal](https://github.com/theupdateframework/taps) (TAP).
