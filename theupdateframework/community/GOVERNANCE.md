@@ -112,27 +112,17 @@ Framework, not just certain subprojects or corporate sponsors, comply with and
 support the Code of Conduct, and be professional and compassionate in all of
 their dealings with project participants.
 
-## Code of Conduct Committee
+## Code of Conduct Violations
 
-In order to review and enforce the Code of Conduct, the Steering Committee
-selects 3 people to be on the Code of Conduct Committee.
+Code of conduct issues discovered by the community should be reported to the CNCF
+code of conduct committee.
 
-These individuals will be chosen based on their community management and code of
-conduct experience, with diverse representation across the committee, including
-employer, gender, race, background, and region of the world. To avoid fatigue,
-the Steering Committee will replace at least 1 member of the CoC Committee each
-year. Members of the committee do not need to be members of The Update Framework
-if they have sufficient other expertise.
-
-The CoC Committee will receive reports of conduct violations confidentially, and
-will discuss them in closed meetings. If a report is determined to be a
-violation, they will recommend action on it appropriate to the scale, nature,
-and context of the violation, from requiring an apology, up to expulsion of an
-individual from the project. In the event that a contributor is to be demoted or
-expelled, the CoC Committee will forward this recommendation to the Steering
-Committee who will ratify it in a closed meeting. Should a member of the
-Steering Committee be the offender or the reporter, this recommendation will
-instead be forwarded to the CNCF staff for final arbitration.
+We welcome the CNCF code of conduct committee to handle code of conduct violations
+in either of the following ways (at their discretion):
+* notify members of the TUF Steering Committee so that we may handle the issue
+  internally
+* handle the issue at the CNCF level and notify the project of the incident and/or
+  resolution, as is appopriate
 
 ## Adding Subprojects
 
